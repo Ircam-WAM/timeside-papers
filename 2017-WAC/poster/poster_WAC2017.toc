@@ -1,0 +1,4 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Telemeta}{1}{0}{1}
+\beamer@sectionintoc {2}{TimeSide}{1}{0}{2}
+\beamer@subsectionintoc {2}{1}{TimeSide architecture}{1}{0}{2}
